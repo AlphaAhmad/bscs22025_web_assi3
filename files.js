@@ -71,5 +71,5 @@ await readItems();
 await deleteItem(2);
 // Read all items to confirm deletion
 await readItems();
-
+    
 })();
